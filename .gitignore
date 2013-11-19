@@ -1,0 +1,4 @@
+cookbooks/
+boxes/
+packer_cache/
+
